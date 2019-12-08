@@ -5,3 +5,13 @@ header {
 body {
     background-image: url(../images/blue-snow.png);
 }
+footer {
+    background-color: #666666;
+}
+
+.main {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #dddddd;
+
+}
