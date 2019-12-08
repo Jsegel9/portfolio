@@ -1,9 +1,13 @@
 header {
     display: block;
     background-color: #ffffff;
+    color: #ffffff;
+    padding: 15px;
+    width: 100%
 }
 body {
     background-image: url(../images/blue-snow.png);
+    color: #777777;
 }
 footer {
     background-color: #666666;
@@ -14,4 +18,16 @@ footer {
     border-style: solid;
     border-color: #dddddd;
 
+}
+h1 {
+    background-color: #4aaaa5;
+    padding: 20px;
+    width: 250px;
+}
+h2 {
+    color: #4aaaa5;
+    border-bottom: 2px solid;
+    border-color: #dddddd;
+    margin-left: 20px;
+    margin-right: 20px;
 }
