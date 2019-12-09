@@ -9,5 +9,5 @@ In order to "install" this project one simply needs to open the following [link]
 ## Usage
 ### About Page
 Using/Navigating this project is very straightforward. You will first find yourself on the "About" Page which doubles as our home page as seen below.
-![About Page](portfolio/assets/images/portfolio.png)
+![About Page](portfolio/assets/images/portfolio2.png)
 
