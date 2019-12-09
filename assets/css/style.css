@@ -107,8 +107,9 @@ footer {
       position: relative;
       /* text-align: center; */
       color: #ffffff;
-      width: 100%;
+      width: 34%;
       max-width: 200px;
+      height: auto;
       float: left;
       margin: 20px;
   }
@@ -120,4 +121,7 @@ footer {
       text-align: center;
       padding: 10px 0px 10px 0px;
 
+  }
+  * {
+      box-sizing: border-box;
   }
