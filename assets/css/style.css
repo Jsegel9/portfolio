@@ -1,9 +1,10 @@
 header {
-    display: block;
+    display: block  ;
     background-color: #ffffff;
     color: #ffffff;
-    padding: 15px;
-    width: 100%
+    /* padding: 15px; */
+    width: 100%;
+    overflow: auto;
 }
 body {
     background-image: url(../images/blue-snow.png);
@@ -42,7 +43,8 @@ footer {
     background-color: #666666;
     color:#ffffff;
     text-align: center;
-    padding: 20px;
-    border-top: 5px solid;
+    padding: 40px 20px 0px 20px;
+    border-top: 8px solid;
     border-color: #4aaaa5;
+    font-size: 10px;
 }
