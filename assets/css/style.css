@@ -14,7 +14,8 @@ header {
 body {
     background-image: url(../images/blue-snow.png);
     color: #777777;
-    font: 'arial', 'helvetica neue', helvetica, sans-serif;
+    /* font: 'arial', 'helvetica neue', helvetica, sans-serif; */
+    font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
 }
 
 
@@ -26,7 +27,7 @@ body {
     padding: 20px;
     margin-left: 250px;
     margin-right: 250px;
-    
+    font-size: 20px;
 }
 h1 {
     background-color: #4aaaa5;
@@ -70,6 +71,12 @@ footer {
     right: 250px;
 
 }
-.clearfix {
-    
-}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .left {
+      float: left;
+      padding: 10px 20px 20px 20px;
+  }
