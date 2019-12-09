@@ -16,6 +16,7 @@ body {
     color: #777777;
     font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
     line-height: 1.5;
+    overflow: auto;
 }
 
 
@@ -101,4 +102,22 @@ footer {
     border-color: #4aaaa5;
     padding: 8px 20px 8px 20px;
     font-size: 20px;
+  }
+  .portpic {
+      position: relative;
+      /* text-align: center; */
+      color: #ffffff;
+      width: 100%;
+      max-width: 200px;
+      float: left;
+      margin: 20px;
+  }
+  .porttext {
+      position: absolute;
+      bottom: 15px;
+      background-color: #4aaaa5;
+      width: 100%;
+      text-align: center;
+      padding: 10px 0px 10px 0px;
+
   }
