@@ -154,3 +154,10 @@ a {
     border-color: #777777;
     ;
 }
+.portcontain {
+    background-color: #ffffff;
+    width: 630px;   
+    padding: 20px;
+    margin-right: 250px;
+    font-size: 20px;
+}
