@@ -14,7 +14,6 @@ header {
 body {
     background-image: url(../images/blue-snow.png);
     color: #777777;
-    /* font: 'arial', 'helvetica neue', helvetica, sans-serif; */
     font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
 }
 
@@ -23,6 +22,7 @@ body {
     background-color: #ffffff;
     border-style: solid;
     border-color: #dddddd;
+    border-width: 2px;
     width: 960px;   
     padding: 20px;
     margin-left: 250px;
@@ -57,7 +57,7 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: #666666;
-    color:#ffffff;
+    color: #777777;
     text-align: center;
     padding: 40px 20px 8px 20px;
     border-top: 8px solid;
@@ -79,4 +79,25 @@ footer {
   .left {
       float: left;
       padding: 10px 20px 20px 20px;
+  }
+  input[type=text] {
+      width: 100%;
+      color: #777777;
+    font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
+    padding: 8px 20px 8px 15px;
+  }
+  input[type=email] {
+      width: 100%;
+      color: #777777;
+    font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
+    padding: 8px 20px 8px 15px;
+  }
+  input[type=submit] {
+    font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: 8px solid;
+    border-color: #4aaaa5;
+    padding: 8px 20px 8px 20px;
+    font-size: 20px;
   }
