@@ -9,9 +9,7 @@ body {
     background-image: url(../images/blue-snow.png);
     color: #777777;
 }
-footer {
-    background-color: #666666;
-}
+
 
 .main {
     background-color: #ffffff;
@@ -37,7 +35,14 @@ h2 {
     margin-right: 20px;
 }
 footer {
-    width: 960px;
-    display: block;
-    margin-left: 250px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color:#ffffff;
+    text-align: center;
+    padding: 20px;
+    border-top: 5px solid;
+    border-color: #4aaaa5;
 }
