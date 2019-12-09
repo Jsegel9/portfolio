@@ -7,10 +7,14 @@ header {
     overflow: auto;
     margin-bottom: 20px;
     position: relative;
+    top: 0px;
+    border-bottom: 2px solid;
+    border-color: #dddddd;
 }
 body {
     background-image: url(../images/blue-snow.png);
     color: #777777;
+    font: 'arial', 'helvetica neue', helvetica, sans-serif;
 }
 
 
@@ -27,10 +31,13 @@ body {
 h1 {
     background-color: #4aaaa5;
     padding: 20px;
-    width: 250px;
+    width: 175px;
     margin-left: 250px;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
 }
 h2 {
     color: #4aaaa5;
@@ -38,6 +45,10 @@ h2 {
     border-color: #dddddd;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 20px 20px 20px 0px;
 }
 footer {
     position: fixed;
@@ -47,7 +58,7 @@ footer {
     background-color: #666666;
     color:#ffffff;
     text-align: center;
-    padding: 40px 20px 0px 20px;
+    padding: 40px 20px 8px 20px;
     border-top: 8px solid;
     border-color: #4aaaa5;
     font-size: 10px;
@@ -58,4 +69,7 @@ footer {
     bottom: 20px;
     right: 250px;
 
+}
+.clearfix {
+    
 }
