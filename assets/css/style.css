@@ -84,13 +84,13 @@ footer {
       width: 100%;
       color: #777777;
     font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
-    padding: 8px 20px 8px 15px;
+    padding: 8px 0px 8px 0px;
   }
   input[type=email] {
       width: 100%;
       color: #777777;
     font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
-    padding: 8px 20px 8px 15px;
+    padding: 8px 0px 8px 0px;
   }
   input[type=submit] {
     font-family: Arial, 'Helvetica neue', helvetica, sans-serif;
