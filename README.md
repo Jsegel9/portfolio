@@ -9,17 +9,17 @@ In order to "install" this project one simply needs to open the following [link]
 ## Usage
 ### About Page
 Using/Navigating this project is very straightforward. You will first find yourself on the "About" Page which doubles as our home page as seen below.
-![About Page](assets/images/aboutpage.png)  
+![About Page](assets/images/aboutpage.PNG)  
 On this page you will find a blurb with some basic biographical information about myself. At the top of the page you will find a navigation bar and menu with links to the other pages "Portfolio" and "Contact", to navigate to one of these pages simply click your desired link.
-![Link Picture](assets/images/aboutlink.png)  
+![Link Picture](assets/images/aboutlink.PNG)  
 ### Portfolio Page
 On the portfolio page you will find a list of some of my completed projects. Each project is represented by a thumbnail that doubles as a link taking you to that project as shown below. Simply click any of these images to be taken to the its associated project.
-![Portfolio](assets/images/portgallery.png)
+![Portfolio](assets/images/portgallery.PNG)
 The projects that have been selected for this page are meant to showcase my diverse range of skills as a developer.
 ### Contact Page
 Finally, the conact page is where you will be able to reach out to me right through my portfolio site if you have any questions, concerns or need for my services.  
 Simply fill out the form with your relevant information and message (as below); click submit and I will respond as quickly as I am able.  
-![Contact](/assets/images/contact.png)  
+![Contact](/assets/images/contact.PNG)  
 ## Credits
 Special Thanks to the following for their contributions to this project.
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
